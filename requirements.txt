@@ -1,3 +1,4 @@
 flask
 json
 appwrite
+requests
